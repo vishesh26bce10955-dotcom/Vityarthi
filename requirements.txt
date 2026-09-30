@@ -1,0 +1,4 @@
+# The application uses only the Python standard library (Python 3.10+).
+# Optional, only needed to regenerate the PDF report and diagrams:
+# matplotlib
+# reportlab

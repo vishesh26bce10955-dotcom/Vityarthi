@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+logs/
+data/expenses.json
+data/*.corrupt-*
+*.tmp
+expenses_export.csv
